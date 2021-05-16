@@ -1,0 +1,52 @@
+#footer {
+    border: 1px solid #bab6b6;
+    height: 61px;
+    width: 100%;
+    display: flex;
+}
+
+
+#footer span {
+    /*padding-top: 9px;*/
+}
+
+.footer-span {
+    /*flex-basis: 78%;*/
+    display: inherit;
+}
+
+#footer i {
+    font-size: 18px;
+    /*top: 7px;*/
+    /*padding-left: 36px;*/
+    /*position: relative*/
+}
+
+#footer .social-icon {
+    flex-basis: 30%;
+}
+
+/*#footer .social-icon .wrapper {*/
+/*    width: 40px;*/
+/*    height: 40px;*/
+/*    background: #f00;*/
+/*    border-radius: 20px;*/
+/*}*/
+
+
+/*#footer .social-icon .wrapper .bi-instagram {*/
+/*    font-size: 1em;*/
+/*}*/
+
+/*#footer .social-icon .wrapper:hover  {*/
+/*    transform: scale(2);*/
+/*    -webkit-transition: all .6s;*/
+/*    -moz-transition: all .6s;*/
+/*    -ms-transition: all .6s;*/
+/*    -o-transition: all .6s;*/
+/*    transition: all .6s;*/
+/*}*/
+
+/*#footer i:last-child {*/
+/*    padding-left: 0;*/
+/*}*/

@@ -1,0 +1,16 @@
+@import "inc/app.css";
+@import "inc/header.css";
+@import "inc/sidebar.css";
+@import "inc/footer.css";
+@import "inc/fonts.css";
+
+/*!*global *!*/
+@import "global/global.css";
+
+/*@media (min-width: 320px) and (max-width: 700px) {*/
+/*    body {*/
+/*        background-color: red !important;*/
+/*    }*/
+/*}*/
+
+
